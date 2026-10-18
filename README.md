@@ -44,4 +44,4 @@ Credits: My friend gave me the idea.
 
 ## Bonus
 
-The first Idea Schematics
+The Idea Scetch
