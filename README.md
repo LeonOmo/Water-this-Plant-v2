@@ -1,6 +1,6 @@
 # Water this Plant v2
 
-A rather simple Project to monitor soil mostore lvls for my plant. It provied led feedback and it send a message to your phone to alert me when it needs water.
+A rather simple Project to monitor soil moistore lvls for my plant. It provied led feedback and it send a message to your phone to alert me when it needs water.
 
 ## Features
 
