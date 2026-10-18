@@ -1,27 +1,29 @@
 # Water this Plant v2
 
-A rather simple Project to monitor soil moistore lvls for my plant. It provied led feedback and it send a message to your phone to alert me when it needs water.
+A rather simple Project to monitor soil moisture lvls for my plant. It provides led feedback and it sends a message to your phone to alert me when it needs water.
 
 ## Features
 
-- Visual Alerts: 2x LEDs notifing me when the plant needs water (Red = need moisture, Green = enough moisture).
+- Visual Alerts: 2x LEDs notifying me when the plant needs water (Red = need moisture, Green = enough moisture).
 - Phone Alert: Notifies my phone when the plant needs water.
-- Solar Panel: Stores Energy in the Batteries to make it useable without always connecting it to a pc/socket/phone
+- Solar Power System: Fully autonomous setup using 2x compact 5V solar panels and a 3.7V Li-ion battery, protected by a Schottky diode for continuous usage without manual recharging (or constant connection).
 
 ## Components 
 
-- Microcontroller: Esp32
-- Sensor: Capacitive Soil Moisture Sensor
+- Microcontroller: Wemos Lolin D32 (ESP32 with integrated battery management & JST-PH connector)
+- Sensor: Capacitive Soil Moisture Sensor v1.2
+- Power & Solar: 
+  - 1x 18650 Li-ion Battery in a holder with JST-PH 2.0 connector
+  - 2x 5V / 0.3W Mini Solar Panels (68x36 mm, wired in parallel)
+  - 1x 1N5819 Schottky Diode (reverse-current protection)
 - LEDs: 1x Green / Blue LED & 1x Red LED
 - Resistors: 2x 220 Ohm Resistors
-- Connecting everything: PCB/Breadboard
-- Solar Panel: 2x 68x36 Solar Panels
-- Batteries: 2x Batteries for remote usage
+- Connecting everything: Breadboard
 
 ## Tools
 
 - Paint: Used for making the idea
-- TinkerCAD: Referance made here
+- TinkerCAD: Reference made here
 - Onshape: Designed the CAD there
 - Arduino IDE: Made the firmware here
 
@@ -31,17 +33,13 @@ A rather simple Project to monitor soil moistore lvls for my plant. It provied l
 
 ## CAD
 
-TinkerCAD Design
-
-
-Case Design
-
-
+- TinkerCAD Design
+- Case Design
 
 ## Extras
 
-Credits: My friend gave me the idea.
+- Credits: My friend gave me the idea.
 
 ## Bonus
 
-The Idea Scetch
+- The Idea Sketch
