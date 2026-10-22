@@ -1,4 +1,4 @@
-Item,Quantity,Price,Link,Description
+Item,Quantity,Total Price,Link,Description
 "ESP32 Wemos Lolin D32","1","6.22 $","https://de.aliexpress.com/item/1005011824848241.html","Microcontroller with Wi-Fi for control and notifications"
 "Capacitive Soil Moisture Sensor v1.2","1","1.66 $","https://de.aliexpress.com/item/1005010806672089.html","Measures soil moisture"
 "Mini Solar Panel","2","4.81 $","https://www.aliexpress.com/item/1005005852504953.html","Connected in parallel to charge the batteries"
