@@ -43,3 +43,6 @@ A simple autonomous project to monitor soil moisture lvls for my plant, featurin
 ## Bonus
 
 - The Idea Sketch
+
+<img width="648" height="535" alt="Screenshot 2026-10-16 181115" src="https://github.com/user-attachments/assets/5811eacb-3cbb-4117-8d36-ee10c5584c9d" />
+
