@@ -4,9 +4,10 @@ Item,Quantity,Price,Link,Description
 "Mini Solar Panel (5V / ~0.3W-1W)","2","-","https://www.aliexpress.com/item/1005005852504953.html","Connected in parallel to charge the batteries"
 "1N5819 Schottky Diode (from set)","1","-","https://www.aliexpress.com/item/1005003632971234.html","Prevents reverse current flow from batteries to solar panels"
 "18650 Rechargeable Battery (3.7V)","2","-","-","Rechargeable power supply"
-"Dual 18650 Battery Holder,"1","-","https://de.aliexpress.com/item/1005007482296213.html","Holder for 2x 18650 batteries with JST-PH adapter for esp32"
+"Dual 18650 Battery Holder","1","-","https://de.aliexpress.com/item/1005007482296213.html","Holder for 2x 18650 batteries with JST-PH adapter for esp32"
 "LED (Red)","1","0.81 $","https://de.aliexpress.com/item/1005005708510866.html","Dry soil warning indicator (< 30%)"
 "LED (Green)","1","0.81 $","https://de.aliexpress.com/item/1005005708510866.html","Optimal moisture status indicator (>= 30%)"
 "Resistor 220Ω","2","0.82 $","https://de.aliexpress.com/item/1005011888190705.html","Current limiting resistors for LEDs"
 "Small Breadboard","1","2.84 $","https://de.aliexpress.com/item/1005005301080280.html","For prototyping and circuit connections"
 "USB Cable","1","1.50 $","https://de.aliexpress.com/item/1005006609803679.html","For initial programming and power delivery"
+"Total with shipping","","","","",
