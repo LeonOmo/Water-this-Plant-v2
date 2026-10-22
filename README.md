@@ -39,7 +39,7 @@ A simple autonomous project to monitor soil moisture lvls for my plant, featurin
 
 ## Extras
 
-- Credits: My friend gave me the idea.
+- Credits: My friend gave me the idea. Fun project with first time using wifi and the moisture sensor.
 
 ## Bonus
 
