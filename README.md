@@ -13,9 +13,10 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 - Microcontroller: Wemos Lolin D32 
 - Sensor: Capacitive Soil Moisture Sensor v1.2
 - Power & Solar: 
-  - 1x 18650 Li-ion Battery in a holder with JST-PH 2.0 connector
+  - 1x 18650 Battery holder
+  - 2x Rechargeable batteries
   - 2x 5V / 0.3W Mini Solar Panels (68x36 mm, wired in parallel)
-  - 1x 1N5819 Schottky Diode (reverse-current protection)
+  - 1x 1N5819 Diode (reverse current protection)
 - LEDs: 1x Green / Blue LED & 1x Red LED
 - Resistors: 2x 220 Ohm Resistors
 - Connecting everything: Breadboard
