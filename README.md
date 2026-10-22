@@ -4,13 +4,13 @@ A simple autonomous project to monitor soil moisture lvls for my plant, featurin
 
 ## Features
 
-- Visual Alerts: 2x LEDs notifying me when the plant needs water (Red = need moisture, Green = enough moisture).
+- Visual Alerts: 2x LEDs notifying me when the plant needs water (Red = need moisture, Green / Blue = enough moisture).
 - Phone Alert: Notifies my phone when the plant needs water.
-- Solar Power System: Fully autonomous setup using 2x compact 5V solar panels and a 3.7V Li-ion battery, protected by a Schottky diode for continuous usage without manual recharging (or constant connection).
+- Solar Power System: Setup using 2x compact 5V solar panels and 2x batteries, protected by a diode for continuous usage without manual recharging (or constant connection).
 
 ## Components 
 
-- Microcontroller: Wemos Lolin D32 (ESP32 with integrated battery management & JST-PH connector)
+- Microcontroller: Wemos Lolin D32 
 - Sensor: Capacitive Soil Moisture Sensor v1.2
 - Power & Solar: 
   - 1x 18650 Li-ion Battery in a holder with JST-PH 2.0 connector
@@ -29,12 +29,13 @@ A simple autonomous project to monitor soil moisture lvls for my plant, featurin
 
 ## Firmware
 
-
+<img width="1217" height="833" alt="image" src="https://github.com/user-attachments/assets/377e30b6-8e01-42fc-bdce-f94680239b68" />
 
 ## CAD
 
-- TinkerCAD Design
 - Case Design
+
+  <img width="430" height="409" alt="Screenshot 2026-10-22 215226" src="https://github.com/user-attachments/assets/da574b9f-b6aa-4f8d-ae25-9ef823bd347d" />
 
 ## Extras
 
