@@ -1,6 +1,6 @@
 # Water this Plant v2
 
-A simple project to monitor soil moisture lvls for my plant, featuring LED feedback and phone alerts when watering is needed. Uses small solar panels for recharging the batteries and a sleep mode for less energie input
+This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvls for my plant, featuring LED feedback and phone alerts when watering is needed. Uses small solar panels for recharging the batteries and a sleep mode for less energie input
 
 ## Features
 
