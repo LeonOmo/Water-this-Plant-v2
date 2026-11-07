@@ -8,7 +8,7 @@ Battery (Protected),2,4.00 $,https://www.amazon.de/dp/B0HHP2N5TK/,Parallel 18650
 Dual 18650 Battery Holder,1,3.25 $,https://de.aliexpress.com/item/1005007482296213.html,Parallel 2x 18650 holder with JST-PH 2.0mm cable output
 5mm LED (Red),1,0.81 $,https://de.aliexpress.com/item/1005005708510866.html,Status indicator for low moisture alert
 5mm LED (Green),1,0.81 $,https://de.aliexpress.com/item/1005005708510866.html,Status indicator for optimal moisture level
-Resistor 220Ω (1/4W),2,0.82 $,https://de.aliexpress.com/item/1005011888190705.html,Current-limiting resistors for LEDs on 3.3V GPIOs
+Resistor 220Ω,2,0.82 $,https://de.aliexpress.com/item/1005011888190705.html,Current-limiting resistors for LEDs on 3.3V GPIOs
 Custom PCB (5 pcs minimum order),1,4.00 $,https://jlcpcb.com,Custom PCB layout for power routing & clean sensor interconnects
 USB-C Cable,1,1.50 $,https://de.aliexpress.com/item/1005006609803679.html,Programming cable for ESP32 and initial configuration
 Total,,29.28 $,,
