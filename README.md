@@ -1,25 +1,24 @@
 # Water this Plant v2
 
-This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvls for my plant, featuring LED feedback and phone alerts when watering is needed. Uses small solar panels for recharging the batteries and a sleep mode for less energie input
+This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvls for my plant, featuring LED feedback and phone alerts when watering is needed. Uses small solar panels for recharging the batteries and a sleep mode for less energie usage
 
 ## Features
 
 - Visual Alerts: 2x LEDs notifying me when the plant needs water (Red = need moisture, Green / Blue = enough moisture).
 - Phone Alert: Notifies my phone when the plant needs water.
-- Solar Power System: Setup using 2x compact 5V solar panels and 2x batteries, protected by a diode for continuous usage without manual recharging (or constant connection).
+- Solar Power System: Setup using 2x compact 5V solar panels and a battery, protected by a diode for continuous usage without manual recharging (or constant connection).
 
 ## Components 
 
 - Microcontroller: Wemos Lolin D32 
 - Sensor: Capacitive Soil Moisture Sensor v1.2
 - Power & Solar: 
-  - 1x 18650 Battery holder
-  - 2x Rechargeable batteries
+  - 1x Rechargeable battery
   - 2x 5V / 0.3W Mini Solar Panels (68x36 mm, wired in parallel)
-  - 1x 1N5819 Diode (reverse current protection)
+  - 1x Diode (reverse current protection)
 - LEDs: 1x Green / Blue LED & 1x Red LED
 - Resistors: 2x 220 Ohm Resistors
-- Connecting everything: Breadboard
+- Connecting everything: PCB
 
 ## Tools
 
@@ -42,6 +41,7 @@ https://cad.onshape.com/documents/1d40b63780d7c86f761a8abb/w/1eb81e265bd99f0ddb0
 ## Extras
 
 - Credits: My friend gave me the idea. Fun project with first time using wifi and the moisture sensor.
+- OmoCat: Silkscreen on the PCB (Mewo)
 
 ## Bonus
 
