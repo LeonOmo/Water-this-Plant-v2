@@ -26,6 +26,16 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 - TinkerCAD: Reference made here
 - Onshape: Designed the CAD there
 - Arduino IDE: Made the firmware here
+- KiCAD: PCB Design
+
+## Schematic
+
+<img width="682" height="446" alt="Screenshot 2026-11-09 142720" src="https://github.com/user-attachments/assets/5aee4f21-2fcc-4b36-9ad8-55b423b26a0b" />
+
+## PCB
+
+<img width="493" height="660" alt="Screenshot 2026-11-09 143021" src="https://github.com/user-attachments/assets/faf6fa0d-33bc-45c8-a814-ee131bb7210c" />
+<img width="502" height="629" alt="Screenshot 2026-11-09 142949" src="https://github.com/user-attachments/assets/1f93d3dc-9848-4e3c-b54a-aae5d0a2e4cd" />
 
 ## Firmware
 
