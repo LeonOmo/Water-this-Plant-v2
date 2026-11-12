@@ -1,12 +1,12 @@
 Item,Quantity,Total Price,Link,Description
-ESP32 Wemos Lolin D32,1,6.22 $,https://de.aliexpress.com/item/1005011824848241.html,ESP32 with native JST-PH battery connector
-Capacitive Soil Moisture Sensor v1.2,1,1.66 $,https://de.aliexpress.com/item/100500806672089.html,soil moisture sensor
-Mini Solar Panel 5V ,2,4.81 $,https://www.aliexpress.com/item/1005005852504953.html,5V Solar panels connected in parallel to USB pin for battery trickle charging
-1N5819 Schottky Diode,1,1.56 $,https://de.aliexpress.com/item/1005003632971234.html,Low drop diode to USB pin preventing solar reverse current
-3.7V Li-Ion Battery,1,9.79 $,https://www.amazon.de/dp/B0D1234567/,Rechargeable 3.7V battery with native JST-PH 2.0 connector
-5mm LED (Red),1,0.81 $,https://de.aliexpress.com/item/1005005708510866.html,Status indicator for low moisture
-5mm LED (Blue),1,0.81 $,https://de.aliexpress.com/item/1005005708510866.html,Status indicator for moisture level
-Resistor 220,2,0.82 $,https://de.aliexpress.com/item/1005011888190705.html,resistors for LEDs
-Custom PCB,1,16.38 $,https://jlcpcb.com,PCB for power routing & sensor interconnects
-Total,,42.86 $,,
-Total with shipping,,55.00 $,i didnt expect it to be so expensive holy,
+ESP32 Wemos Lolin D32,1,3.99 €,https://de.aliexpress.com/item/1005005526467125.html?,ESP32 with native JST-PH battery connector
+Capacitive Soil Moisture Sensor v1.2,1,2.80 €,https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_feuchtesensor_bodenfeuchte_-223620,soil moisture sensor
+Mini Solar Panel 5V ,2,2.09 €,https://de.aliexpress.com/item/1005009493769892.html,5V Solar panels connected in parallel to USB pin for battery trickle charging
+1N5819 Schottky Diode,1,0.19 €,https://www.reichelt.de/de/de/shop/produkt/schottkydiode_40_v_1_a_do-41-219559,preventing solar reverse current
+3.7V Li-Ion Battery,1,,,Rechargeable 3.7V battery with native JST-PH 2.0 connector
+5mm LED (Red),1,0,07 €,https://www.reichelt.de/de/de/shop/produkt/led_5_mm_bedrahtet_rot_563_mcd_19_-10233,Status indicator for low moisture
+5mm LED (Green),1,0,07 €,https://www.reichelt.de/de/de/shop/produkt/led_5_mm_bedrahtet_gruen_110_mcd_22_-10232,Status indicator for moisture level
+Resistor 220,2,0.14 €,https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_220_ohm_0207_250_mw_5_-1382,resistors for LEDs
+Custom PCB,1,10.22 €,https://jlcpcb.com,PCB for power routing & sensor interconnects
+Total,,,,
+
