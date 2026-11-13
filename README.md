@@ -6,7 +6,7 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 
 - Visual Alerts: 2x LEDs notifying me when the plant needs water (Red = need moisture, Green / Blue = enough moisture).
 - Phone Alert: Notifies my phone when the plant needs water.
-- Solar Power System: Setup using 2x compact 5V solar panels and a battery, protected by a diode for continuous usage without manual recharging (or constant connection).
+- Solar Power System: Setup using a 5V solar panels and a battery, protected by a diode for continuous usage without manual recharging (or constant connection).
 
 ## Components 
 
@@ -16,7 +16,7 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
   - 1x Rechargeable battery
   - 1x 5V / 0.3W Mini Solar Panels (68x36 mm)
   - 1x Diode (reverse current protection)
-- LEDs: 1x Green / Blue LED & 1x Red LEDhttps://github.com/LeonOmo/Water-this-Plant-v2/settings
+- LEDs: 1x Green / Blue LED & 1x Red LED
 - Resistors: 2x 220 Ohm Resistors
 - Connecting everything: PCB
 
@@ -25,7 +25,7 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 - Paint: Used for making the idea
 - TinkerCAD: Reference made here
 - Onshape: Designed the CAD there
-- Arduino IDE: Made the firmware here
+- Arduino IDE: Firmware
 - KiCAD: PCB Design
 
 ## Schematic
