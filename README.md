@@ -54,7 +54,7 @@ https://cad.onshape.com/documents/1d40b63780d7c86f761a8abb/w/1eb81e265bd99f0ddb0
 ## Extras
 
 - Credits: My friend gave me the idea. Fun project with first time using wifi and the moisture sensor.
-- OmoCat: Silkscreen on the PCB (Mewo)
+- OmoCat: Silkscreen on the PCB (Only on my PCB not in the files)
 
 ## Bonus
 
