@@ -14,7 +14,7 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 - Sensor: Capacitive Soil Moisture Sensor v1.2
 - Power & Solar: 
   - 1x Rechargeable battery
-  - 2x 5V / 0.3W Mini Solar Panels (68x36 mm, wired in parallel)
+  - 1x 5V / 0.3W Mini Solar Panels (68x36 mm)
   - 1x Diode (reverse current protection)
 - LEDs: 1x Green / Blue LED & 1x Red LED
 - Resistors: 2x 220 Ohm Resistors
