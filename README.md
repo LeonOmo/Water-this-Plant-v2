@@ -7,7 +7,7 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 - Responsibility: I have a plant of my own, and instead of watering it randomly, I want to water it only when it really needs water. That way I can take better care of it.
 - Sensors: I've been building projects with many different sensors so that I can work with any kind of sensor.
 - Phone messages: This is the first project where I can get messages on my phone
-- 
+
 ## Features
 
 - Visual Alerts: 2x LEDs notifying me when the plant needs water (Red = need moisture, Green / Blue = enough moisture).
