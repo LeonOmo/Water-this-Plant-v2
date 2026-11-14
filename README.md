@@ -64,6 +64,10 @@ https://cad.onshape.com/documents/1d40b63780d7c86f761a8abb/w/1eb81e265bd99f0ddb0
 
 ## Bonus
 
+The Build Guide
+
+<img width="1152" height="1910" alt="Build Guide" src="https://github.com/user-attachments/assets/355440b7-f4e1-4d08-8c5d-b5963c633e9c" />
+
 - The Idea Sketch
 
 <img width="648" height="535" alt="Screenshot 2026-10-16 181115" src="https://github.com/user-attachments/assets/5811eacb-3cbb-4117-8d36-ee10c5584c9d" />
