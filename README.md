@@ -26,6 +26,16 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 - Resistors: 2x 220 Ohm Resistors
 - Connecting everything: PCB
 
+## BOM
+
+| Component | Description |
+| :--- | :--- |
+| Microcontroller | Raspberry Pi Pico |
+| Display 1 | 0.96" OLED Display |
+| Display 2 | 1.8" ST7735 Color Display |
+| Board | Perfboard |
+|  | Hookup wires for connections not bridged by solder |
+
 ## Tools
 
 - Paint: Used for making the idea
