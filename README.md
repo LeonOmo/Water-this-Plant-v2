@@ -30,7 +30,7 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 
 | Component | Description |
 | :--- | :--- |
-| Microcontroller | ESP32 Wemos Lolin D32 |
+| Microcontroller (ESP32 Wemos Lolin D32) | Turns Code into actions |
 | Mini Solar Panel 5V | Automaticly charges the battery if the sun shines |
 | 3.7V Li-Ion Battery | Battery so i doesnt need to be pluged in all the time |
 | 5mm LEDs | Feedback if your plant needs water |
