@@ -64,7 +64,7 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 https://cad.onshape.com/documents/1d40b63780d7c86f761a8abb/w/1eb81e265bd99f0ddb002a3f/e/59044aae10a250925d74491d?renderMode=0&uiState=6ada7ccf6d0bc2ecbc7e4ee0
 
 <img width="329" height="452" alt="Screenshot 2026-11-26 174809" src="https://github.com/user-attachments/assets/c67a20cd-ae38-4075-9fd7-a21247b25479" />
-<img width="640" height="448" alt="Screenshot 2026-11-26 174756" src="https://github.com/user-attachments/assets/b3207055-2ee2-4fff-8b14-0cfd8fa7322c" />
+<img width="674" height="475" alt="Screenshot 2026-11-26 183050" src="https://github.com/user-attachments/assets/dd43c039-8d03-44b0-a4b7-e2f3c4a68477" />
 
 ## Extras
 
