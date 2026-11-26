@@ -30,11 +30,12 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 
 | Component | Description |
 | :--- | :--- |
-| Microcontroller | Raspberry Pi Pico |
-| Display 1 | 0.96" OLED Display |
-| Display 2 | 1.8" ST7735 Color Display |
-| Board | Perfboard |
-|  | Hookup wires for connections not bridged by solder |
+| Microcontroller | ESP32 Wemos Lolin D32 |
+| Mini Solar Panel 5V | Automaticly charges the battery if the sun shines |
+| 3.7V Li-Ion Battery | Battery so i doesnt need to be pluged in all the time |
+| 5mm LEDs | Feedback if your plant needs water |
+| Capacitive Soil Moisture Sensor | Sensor for moisture detection |
+| Custom PCB | Connects everything |
 
 ## Tools
 
