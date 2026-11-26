@@ -51,8 +51,8 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 
 ## PCB
 
-<img width="493" height="660" alt="Screenshot 2026-11-09 143021" src="https://github.com/user-attachments/assets/faf6fa0d-33bc-45c8-a814-ee131bb7210c" />
-<img width="502" height="629" alt="Screenshot 2026-11-09 142949" src="https://github.com/user-attachments/assets/1f93d3dc-9848-4e3c-b54a-aae5d0a2e4cd" />
+<img width="406" height="547" alt="Screenshot 2026-11-26 174558" src="https://github.com/user-attachments/assets/85771647-429f-4b96-8dcb-adab4e65562d" />
+<img width="435" height="580" alt="Screenshot 2026-11-26 174542" src="https://github.com/user-attachments/assets/e2ac17a9-6120-4a82-b565-a7862434a15f" />
 
 ## Firmware
 
@@ -63,10 +63,8 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 - Case Design
 https://cad.onshape.com/documents/1d40b63780d7c86f761a8abb/w/1eb81e265bd99f0ddb002a3f/e/59044aae10a250925d74491d?renderMode=0&uiState=6ada7ccf6d0bc2ecbc7e4ee0
 
-<img width="669" height="537" alt="image" src="https://github.com/user-attachments/assets/882da98b-97e2-4ed6-adb6-75c9468adb60" />
-<img width="438" height="555" alt="image" src="https://github.com/user-attachments/assets/1ef82ad3-1ff4-4b07-8227-e4c0a01a6c0b" />
-
-
+<img width="329" height="452" alt="Screenshot 2026-11-26 174809" src="https://github.com/user-attachments/assets/c67a20cd-ae38-4075-9fd7-a21247b25479" />
+<img width="640" height="448" alt="Screenshot 2026-11-26 174756" src="https://github.com/user-attachments/assets/b3207055-2ee2-4fff-8b14-0cfd8fa7322c" />
 
 ## Extras
 
