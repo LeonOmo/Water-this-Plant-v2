@@ -28,14 +28,20 @@ This is an upgrade the v1 of WtP - a simple project to monitor soil moisture lvl
 
 ## BOM
 
-| Component | Description |
-| :--- | :--- |
-| Microcontroller (ESP32 Wemos Lolin D32) | Turns Code into actions |
-| Mini Solar Panel 5V | Automaticly charges the battery if the sun shines |
-| 3.7V Li-Ion Battery | Battery so i doesnt need to be pluged in all the time |
-| 5mm LEDs | Feedback if your plant needs water |
-| Capacitive Soil Moisture Sensor | Sensor for moisture detection |
-| Custom PCB | Connects everything |
+|Item|Quantity|Total Price|
+| - | - | - |
+|ESP32 Wemos Lolin D32|1|3\.99 €|
+|Capacitive Soil Moisture Sensor v1.2|1|2\.80 €|
+|Mini Solar Panel 5V|1|2\.09 €|
+|1N5819 Schottky Diode|1|0\.19 €|
+|3\.7V Li-Ion Battery|1|7\.75 €|
+|5mm LED (Red)|1|0\.07 €|
+|5mm LED (Green)|1|0\.07 €|
+|Resistor 220|2|0\.28 €|
+|Custom PCB|1|10\.22 €|
+|Total||27\.19 €|
+
+
 
 ## Tools
 
